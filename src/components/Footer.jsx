@@ -14,7 +14,7 @@ const Footer = () => {
                                 <Rocket className="w-5 h-5 text-white" />
                             </div>
                             <span className="text-lg font-bold font-display">
-                                Nova<span className="text-violet-400">Digital</span>
+                                Sumo<span className="text-violet-400">Digital</span>
                             </span>
                         </div>
                         <p className="text-gray-400 text-sm leading-relaxed mb-6">
